@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Phan_mem_ghi_danh": "Server=ADMIN;Database=Phan_mem_ghi_danh;Trusted_Connection=True;"
+  }
+}
